@@ -8,5 +8,5 @@ spec:
     app: trivial-go-web-app
   ports:
       - nodePort: 31000
-        protocol: TP
+        protocol: TCP
         port: 80
